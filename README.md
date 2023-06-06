@@ -4,3 +4,4 @@
 3:Comments
 4:Creating variable and assigning
 5:Variable Names
+6:Data Types
