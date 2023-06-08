@@ -6,3 +6,4 @@
 5:Variable Names
 6:Data Types
 7:Slicing Strings
+8:Concatenation
