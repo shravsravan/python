@@ -7,3 +7,4 @@
 6:Data Types
 7:Slicing Strings
 8:Concatenation
+9:Modify Strings
