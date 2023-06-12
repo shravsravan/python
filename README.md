@@ -8,3 +8,4 @@
 7:Slicing Strings
 8:Concatenation
 9:Modify Strings
+10:Booleans
