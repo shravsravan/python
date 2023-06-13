@@ -9,3 +9,4 @@
 8:Concatenation
 9:Modify Strings
 10:Booleans
+11:Operators
